@@ -1,0 +1,22 @@
+body{
+width: 800px;
+margin: auto;
+padding: 50px;
+box-shadow: 0 0 100px; 
+font-family: 'Dancing Script', cursive;
+}
+p{
+ font-size: 20px;
+}
+.div1{
+text-align: left;
+}
+.div2{
+text-align: right;
+}
+.div3{
+text-align: center;
+}
+.div4 p{
+text-align: initial;
+}
