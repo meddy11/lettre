@@ -6,10 +6,14 @@ box-shadow: 0 0 100px;
 font-family: 'couriel', cursive;
 }
 
-.div1 > p {
-text-align: left;
-font-size: 20px;
-font-style: italic;
+.div1 {
+	display: flex;
+	justify-content: space-between; 
+	text-align: left;
+	font-size: 20px;
+	font-style: italic;
+	padding: 30px;
+	margin: 30px;
 
 }
 .div2 > p {
